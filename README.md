@@ -11,6 +11,6 @@ DeepDream was invented by Google, applied to the Inception network developed for
 * [TensorFlow Tutorial](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb) (Refer for code)
 * [Wikipedia on DeepDream](https://en.wikipedia.org/wiki/DeepDream)
 * [Inception TensorFlow Code](https://github.com/tensorflow/models/tree/master/inception) 
-* [A Nice Explanation of DeepDream](http://www.kpkaiser.com/machine-learning/diving-deeper-into-deep-dreams/)
-* [A Nice Video on DeepDream](https://www.youtube.com/watch?v=MrBzgvUNr4w) 
+* [Video1 - DeepDream](http://www.kpkaiser.com/machine-learning/diving-deeper-into-deep-dreams/)
+* [Video2 - DeepDream](https://www.youtube.com/watch?v=MrBzgvUNr4w) 
 
